@@ -1,1 +1,2 @@
-# like_fractals
+# Fractals
+Строим фрактальчики
